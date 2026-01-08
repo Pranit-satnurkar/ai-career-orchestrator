@@ -1,0 +1,13 @@
+Position: Junior Data Scientist - ClinicMind
+Key Responsibilities:
+- Extract, clean, and manage datasets within Amazon Redshift and AWS.
+- Build and maintain Amazon QuickSight dashboards.
+- Conduct exploratory data analysis (EDA) to uncover trends.
+- Work with Data Science Team Lead and cross-functional teams.
+
+Skills and Qualifications:
+- Bachelor’s degree in Computer Science, Statistics, or related field.
+- Hands-on experience with Amazon QuickSight.
+- Understanding of Amazon Redshift (queries, schemas, joins).
+- Knowledge of SQL for data extraction.
+- Basic exposure to Python or R.
