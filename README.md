@@ -2,6 +2,9 @@
 
 An autonomous AI agent system that transforms the job application process. This tool uses a Multi-Agent architecture to research companies, analyze skill gaps, and tailor resumes in real-time.
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://cs-ai-career.streamlit.app/)
+> **🔴 Live Demo:** [Click here to launch the dashboard](https://cs-ai-career.streamlit.app/)
+
 ![App Screenshot](demo_screenshot.png)
 
 ## 🏗 Architecture
